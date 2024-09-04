@@ -1,0 +1,3 @@
+/home/linkin/Documents/GitHub/ColorPickerApp/build/CMakeFiles/HelloWorld.dir
+/home/linkin/Documents/GitHub/ColorPickerApp/build/CMakeFiles/edit_cache.dir
+/home/linkin/Documents/GitHub/ColorPickerApp/build/CMakeFiles/rebuild_cache.dir
