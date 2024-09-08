@@ -1,42 +1,7 @@
-Fetching registry information from https://github.com/microsoft/vcpkg (HEAD)...
 Detecting compiler hash for triplet x64-linux...
 Compiler found: /usr/bin/c++
-The following packages will be built and installed:
-  * egl-registry:x64-linux@2024-01-25 -- /home/linkin/.cache/vcpkg/registries/git-trees/d883db43133dd223c4ffdbef4193943f6784d43a
-    fmt:x64-linux@11.0.2 -- /home/linkin/.cache/vcpkg/registries/git-trees/65fe4dea09fc09a30e6ece9ac19edb7ad6a49601
-    glfw3:x64-linux@3.4 -- /home/linkin/.cache/vcpkg/registries/git-trees/fcbaa3b4073da7a24e20e043164075512f027d2d
-    imgui:x64-linux@1.91.0 -- /home/linkin/.cache/vcpkg/registries/git-trees/09b0e91307c74efecc2b8860b3a25f4e11aa96d3
-    opengl:x64-linux@2022-12-04#3 -- /home/linkin/.cache/vcpkg/registries/git-trees/c3ae71738f88449ebcd781cef60d9a253fa091d4
-  * opengl-registry:x64-linux@2024-02-10#1 -- /home/linkin/.cache/vcpkg/registries/git-trees/22f7aa58ee78c9f0db904b6251e9265f2be26f9d
-  * vcpkg-cmake:x64-linux@2024-04-23 -- /home/linkin/.cache/vcpkg/registries/git-trees/e74aa1e8f93278a8e71372f1fa08c3df420eb840
-  * vcpkg-cmake-config:x64-linux@2024-05-23 -- /home/linkin/.cache/vcpkg/registries/git-trees/97a63e4bc1a17422ffe4eff71da53b4b561a7841
-Additional packages (*) will be modified to complete this operation.
-Restored 8 package(s) from /home/linkin/.cache/vcpkg/archives in 61.5 ms. Use --debug to see more details.
-Installing 1/8 vcpkg-cmake-config:x64-linux@2024-05-23...
-Elapsed time to handle vcpkg-cmake-config:x64-linux: 702 us
-vcpkg-cmake-config:x64-linux package ABI: 79599be84395487df731391dc6872b53eb8db243ef9dc76d8bfc74a79e7ad57b
-Installing 2/8 vcpkg-cmake:x64-linux@2024-04-23...
-Elapsed time to handle vcpkg-cmake:x64-linux: 360 us
-vcpkg-cmake:x64-linux package ABI: 3fb06fa639efbb4a926e7b635f7eddd31de5d034b3b1e38f20f9052314cb1faf
-Installing 3/8 fmt:x64-linux@11.0.2...
-Elapsed time to handle fmt:x64-linux: 998 us
-fmt:x64-linux package ABI: 7f16f8ed8544bfd28bd4223ab7ca52436b34e2295a1d32891eeac3820450ecd4
-Installing 4/8 glfw3:x64-linux@3.4...
-Elapsed time to handle glfw3:x64-linux: 719 us
-glfw3:x64-linux package ABI: 51cb4859822be587198c906cf91e48b267a723fd8aa1032f38dae5976ca2a509
-Installing 5/8 imgui:x64-linux@1.91.0...
-Elapsed time to handle imgui:x64-linux: 649 us
-imgui:x64-linux package ABI: c5d97762f910b0d1bc4291978f9d125eb52d698b83151f54765d409ee66cb2c7
-Installing 6/8 egl-registry:x64-linux@2024-01-25...
-Elapsed time to handle egl-registry:x64-linux: 945 us
-egl-registry:x64-linux package ABI: cef452629e1418f527c7a42e1ac4a2282f245fa971e16a4e07f7e7efe6c0f3af
-Installing 7/8 opengl-registry:x64-linux@2024-02-10#1...
-Elapsed time to handle opengl-registry:x64-linux: 1.82 ms
-opengl-registry:x64-linux package ABI: 8797509195b9bbf46b783990d6fd58a8b2e27322eb9ef579b7e90da1cb4adcdd
-Installing 8/8 opengl:x64-linux@2022-12-04#3...
-Elapsed time to handle opengl:x64-linux: 602 us
-opengl:x64-linux package ABI: 7d9fc15527c438a0bca7b246c2ed5403c6480f855f44336d3fa634ffd1d5a7b5
-Total install time: 6.94 ms
+All requested packages are currently installed.
+Total install time: 795 ns
 The package fmt provides CMake targets:
 
     find_package(fmt CONFIG REQUIRED)
